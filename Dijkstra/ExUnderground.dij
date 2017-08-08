@@ -1,0 +1,10 @@
+7
+EdgwareRoad 1 NottingHillGate 3 SouthKensigton 3 TowerHill 2 LiverpoolStreet 2 OxfordCircus 2 LeicesterSquare 1
+
+NottingHillGate 2.75
+EdgwareRoad 2.75 SouthKensigton 3.05 OxfordCircus 3.9
+NottingHillGate 3.05 TowerHill 7.75 LeicesterSquare 3.7
+SouthKensigton 7.75 LiverpoolStreet 1.3
+TowerHill 1.3 OxfordCircus 4.7
+NottingHillGate 3.9 LiverpoolStreet 4.7
+SouthKensigton 3.7

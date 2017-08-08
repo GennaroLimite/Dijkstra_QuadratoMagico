@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1435486963 source:c:\users\genny\desktop\dijkstra\cpp\arco.cpp
+	"../Include/Arco.h"
+
+1435486956 c:\users\genny\desktop\dijkstra\include\arco.h
+
+1435486971 source:c:\users\genny\desktop\dijkstra\cpp\grafo.cpp
+	"../Include/Grafo.h"
+
+1435486956 c:\users\genny\desktop\dijkstra\include\grafo.h
+	"Vertice.h"
+	<map>
+	<iostream>
+	<fstream>
+	<list>
+
+1435486956 c:\users\genny\desktop\dijkstra\include\vertice.h
+	"Arco.h"
+	<vector>
+	<string>
+	<limits>
+
+1435486978 source:c:\users\genny\desktop\dijkstra\cpp\header.cpp
+	"../Include/Header.h"
+
+1435486956 c:\users\genny\desktop\dijkstra\include\header.h
+	"Vertice.h"
+	"Arco.h"
+	"Grafo.h"
+
+1435486987 source:c:\users\genny\desktop\dijkstra\cpp\vertice.cpp
+	"../Include/Vertice.h"
+
+1435486680 source:c:\users\genny\desktop\dijkstra\main.cpp
+	"Include/Vertice.h"
+	"Include/Arco.h"
+	"Include/Grafo.h"
+	"Include/header.h"
+
+1435665127 source:c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\cpp\arco.cpp
+	"../Include/Arco.h"
+
+1435665095 c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\include\arco.h
+
+1435745758 source:c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\cpp\grafo.cpp
+	"../Include/Grafo.h"
+
+1435739657 c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\include\grafo.h
+	"Vertice.h"
+	<map>
+	<iostream>
+	<fstream>
+	<list>
+
+1435679397 c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\include\vertice.h
+	"Arco.h"
+	<vector>
+	<string>
+	<limits>
+
+1435747519 source:c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\cpp\header.cpp
+	"../Include/Header.h"
+
+1435486956 c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\include\header.h
+	"Vertice.h"
+	"Arco.h"
+	"Grafo.h"
+
+1435488030 source:c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\main.cpp
+	"Include/Vertice.h"
+	"Include/Arco.h"
+	"Include/Grafo.h"
+	"Include/header.h"
+
+1435684219 source:c:\users\genny\desktop\progetto_limite_gennaro\dijkstra\cpp\vertice.cpp
+	"../Include/Vertice.h"
+

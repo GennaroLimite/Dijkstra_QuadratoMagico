@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1435484639 source:c:\users\genny\desktop\quadratomagico\cpp\cella.cpp
+	"../Include/Cella.h"
+
+1435484364 c:\users\genny\desktop\quadratomagico\include\cella.h
+
+1435484650 source:c:\users\genny\desktop\quadratomagico\cpp\quadrato.cpp
+	"../Include/Quadrato.h"
+
+1435484395 c:\users\genny\desktop\quadratomagico\include\quadrato.h
+	"Cella.h"
+	<sstream>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<string>
+
+1435484661 source:c:\users\genny\desktop\quadratomagico\cpp\quadratomagico.cpp
+	"../Include/QuadratoMagico.h"
+
+1435484409 c:\users\genny\desktop\quadratomagico\include\quadratomagico.h
+	"Quadrato.h"
+	"Soluzione.h"
+
+1435484733 c:\users\genny\desktop\quadratomagico\include\soluzione.h
+	"Quadrato.h"
+
+1435484677 source:c:\users\genny\desktop\quadratomagico\cpp\soluzione.cpp
+	"../Include/Soluzione.h"
+
+1435484750 source:c:\users\genny\desktop\quadratomagico\main.cpp
+	"Include/QuadratoMagico.h"
+	<time.h>
+
+1435796963 source:c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\cpp\cella.cpp
+	"../Include/Cella.h"
+
+1435572298 c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\include\cella.h
+
+1435824358 source:c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\cpp\quadrato.cpp
+	"../Include/Quadrato.h"
+
+1435823173 c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\include\quadrato.h
+	"Cella.h"
+	<sstream>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	<string>
+
+1435835728 source:c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\cpp\quadratomagico.cpp
+	"../Include/QuadratoMagico.h"
+
+1435572298 c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\include\quadratomagico.h
+	"Quadrato.h"
+	"Soluzione.h"
+
+1435572298 c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\include\soluzione.h
+	"Quadrato.h"
+
+1435572387 source:c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\cpp\soluzione.cpp
+	"../Include/Soluzione.h"
+
+1435571795 source:c:\users\genny\desktop\progetto_limite_gennaro\quadratomagico\main.cpp
+	"Include/QuadratoMagico.h"
+	<time.h>
+
